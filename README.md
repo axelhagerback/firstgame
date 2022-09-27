@@ -13,3 +13,5 @@ You controll the character by using the arrow keys:
 *press the up key to jump
 
 The game was made using JavaScript and the framework Phaser. 
+
+Link to the game: https://friendly-ganache-389f3a.netlify.app/
